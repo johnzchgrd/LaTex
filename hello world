@@ -1,0 +1,64 @@
+\documentclass[UTF8]{article}
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{amssymb}
+  \author{虎了吧唧}
+  \title{**Test for Calculus**}
+\begin{document}
+\maketitle
+\tableofcontents
+	\section{section1} china is in East Asia.
+		\subsection	{subsec1}	abeijing is the 
+capital of china.
+type1:$F=ma$
+
+type2:\[F=ma\]
+
+law of rotation:$M=J\beta$
+
+fraction: $\frac{a^b}{b-a}$
+
+power: $a^b*c$
+
+subscript:$aef_bcd$
+
+求导：$\frac{\partial y}{\partial x}$
+
+向量：$\vec{a}$
+
+黑体：$\mathbf{abcdttt}$
+
+$\dot{F}$
+
+矩阵：
+\[
+	\left[
+		\begin{array}{ccc}
+			a1&b2&c3\\
+			666&77777&8989\\
+			123&423&32
+		\end{array}
+	\right]
+\]
+
+\&
+
+\begin{align}
+	a+b&=c\\d&=e+f%$\frac{a}{b}$
+\end{align}
+
+\[
+	\left\{
+   \begin{aligned}
+			&a+b=c\\&d=e+f+F
+		\end{aligned}		
+	\right.
+\]
+
+			\subsubsection{subsubsec1}tianmen qian tai yang sheng...
+				\paragraph{}this is a paragraph:)
+					\subparagraph{}this is a sub para;)
+		\subsection{subsec2}this is another \\TRUMP ADMINISTRAION\\sub section.
+			\paragraph{}this is a para. that belongs to the above subsection.
+
+\end{document}
